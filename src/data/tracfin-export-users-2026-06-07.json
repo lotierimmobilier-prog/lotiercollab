@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "exported_at": "2026-06-07T14:45:25.177Z",
+  "source": "tracfin-kyc",
+  "users": [
+    {
+      "email": "jerome.bouba@lotier-immobilier.com",
+      "full_name": "Administrateur",
+      "first_name": null,
+      "last_name": null,
+      "phone": "0651450663",
+      "rcs_number": null,
+      "rcs_city": null,
+      "role": "admin"
+    },
+    {
+      "email": "barbara.bouba@lotier-immobilier.com",
+      "full_name": "Barbara BOUBA",
+      "first_name": "Barbara",
+      "last_name": "BOUBA",
+      "phone": "0651450663",
+      "rcs_number": "890009269",
+      "rcs_city": "CARCASSONNE",
+      "role": "agent"
+    },
+    {
+      "email": "laetitia.dias@lotier-immobilier.com",
+      "full_name": "Laetitia Dias",
+      "first_name": "Laetitia",
+      "last_name": "Dias",
+      "phone": "0609766324",
+      "rcs_number": "850128372",
+      "rcs_city": "ARGENTEUIL",
+      "role": "agent"
+    },
+    {
+      "email": "aubin.marchi@lotier-immobilier.com",
+      "full_name": "Aubin MARCHI",
+      "first_name": "Aubin",
+      "last_name": "MARCHI",
+      "phone": "0679088052",
+      "rcs_number": "XXXXXX",
+      "rcs_city": "CARCASSONNE",
+      "role": "agent"
+    },
+    {
+      "email": "elodie.chardot@lotier-immobilier.com",
+      "full_name": "Elodie CHARDOT",
+      "first_name": "Elodie",
+      "last_name": "CHARDOT",
+      "phone": "0673035196",
+      "rcs_number": "882042278",
+      "rcs_city": "NIMES",
+      "role": "agent"
+    },
+    {
+      "email": "celine.aubin@lotier-immobilier.com",
+      "full_name": "Céline AUBIN",
+      "first_name": "Céline",
+      "last_name": "AUBIN",
+      "phone": "0616293531",
+      "rcs_number": "XXXXX",
+      "rcs_city": "NIMES",
+      "role": "agent"
+    },
+    {
+      "email": "fabienne.rubi@lotier-immobilier.com",
+      "full_name": "Fabienne RUBI",
+      "first_name": "Fabienne",
+      "last_name": "RUBI",
+      "phone": "0621567720",
+      "rcs_number": "XXXXX",
+      "rcs_city": "NIMES",
+      "role": "agent"
+    },
+    {
+      "email": "philippe.leger@lotier-immobilier.com",
+      "full_name": "Philippe LEGER",
+      "first_name": "Philippe",
+      "last_name": "LEGER",
+      "phone": "0675462187",
+      "rcs_number": "991427261",
+      "rcs_city": "MONTPELLIER",
+      "role": "agent"
+    },
+    {
+      "email": "frederique.gallucci@lotier-immobilier.com",
+      "full_name": "Frédérique GALLUCCI",
+      "first_name": "Frédérique",
+      "last_name": "GALLUCCI",
+      "phone": "0637647701",
+      "rcs_number": "",
+      "rcs_city": "",
+      "role": "agent"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+[
+  {
+    "id": "881fd2ab-5426-4a25-b179-8f648dd30f19",
+    "user_id": "51f60352-f4de-47cc-ae8a-f6b57be4ec64",
+    "action": "CREATE_AGENT",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-23 14:47:54.544871+00",
+    "ip_address": null,
+    "metadata": {
+      "role": "AGENT",
+      "email": "barbara.bouba@lotier-immobilier.com",
+      "lastName": "BOUBA",
+      "firstName": "Barbara"
+    }
+  },
+  {
+    "id": "e0cc578e-fd44-4fe6-b6b3-cd96d8b98680",
+    "user_id": null,
+    "action": "IMPERSONATE_START",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 11:02:51.8607+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "0822ad9d-6c53-4f80-9d40-19699d7b13bf",
+    "user_id": null,
+    "action": "IMPERSONATE_START",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 11:03:15.192373+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "75cd5f21-8a4a-4771-9c91-7d003efa7c2e",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "d40ab73e-13a0-40ae-b5bf-f611e2a3f2d9",
+    "timestamp": "2026-01-24 11:06:31.133991+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "01_Identite_Proprietaire",
+      "filename": "Contrat Reservation Logement ALONSO.pdf",
+      "document_type": "Pièce d'identité propriétaire"
+    }
+  },
+  {
+    "id": "cab9c9b9-e32e-4ae1-8047-cf06d6451385",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "d40ab73e-13a0-40ae-b5bf-f611e2a3f2d9",
+    "timestamp": "2026-01-24 11:14:08.704756+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "Contrat Reservation Logement ALONSO.pdf",
+      "had_drive_sync": false
+    }
+  },
+  {
+    "id": "88a9d51b-2d94-465b-8d69-4fa65d101d98",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "14fec02c-1ca9-4b83-86b1-e8c2f0a0d47b",
+    "timestamp": "2026-01-24 11:14:10.657026+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "CPT08221706195.pdf",
+      "had_drive_sync": false
+    }
+  },
+  {
+    "id": "422e8e13-f1b7-46ef-aec4-e40ab33ab19f",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "abe321d8-a54f-45f5-9656-6818f0bdd16c",
+    "timestamp": "2026-01-24 11:14:13.074992+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "carnet (3).pdf",
+      "had_drive_sync": false
+    }
+  },
+  {
+    "id": "577e245b-d3b4-43a1-80fc-1968e480e476",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "c959dd6f-2cc0-4bcd-b2b4-d32f83059740",
+    "timestamp": "2026-01-24 11:14:28.502291+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "04_Mandat",
+      "filename": "RCPRO.pdf",
+      "document_type": "Mandat de gestion signé"
+    }
+  },
+  {
+    "id": "ef0d679e-6fcf-4c9d-98c6-222e3a0131eb",
+    "user_id": null,
+    "action": "IMPERSONATE_START",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 11:21:32.761237+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "d2f08ddf-efc6-4e6a-ab5e-18c5ed1362ed",
+    "user_id": null,
+    "action": "IMPERSONATE_START",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 11:50:05.007952+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "536582c4-8b8c-47f9-9c6b-f7608cc74076",
+    "user_id": null,
+    "action": "CREATE_FILE",
+    "target_type": "FILE",
+    "target_id": "03bac647-7df8-444f-b1ff-068557b277f2",
+    "timestamp": "2026-01-24 12:42:34.265386+00",
+    "ip_address": null,
+    "metadata": {
+      "type": "VENTE",
+      "reference": "456"
+    }
+  },
+  {
+    "id": "543732a3-3ba3-41d1-b8a0-3cefb2a58164",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "b14118eb-24c7-4f7f-9029-9d21596e111f",
+    "timestamp": "2026-01-24 12:42:44.767833+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "01_Identite_Proprietaire",
+      "filename": "Contrat de syndic.docx",
+      "document_type": "Pièce d'identité propriétaire"
+    }
+  },
+  {
+    "id": "f855d19a-845a-4ec6-83f5-e1d9dd0e1ea4",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "a1e29380-6de0-40ba-a2c8-34701ce09863",
+    "timestamp": "2026-01-24 12:55:39.263916+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "04_Mandat",
+      "filename": "RCPRO.pdf",
+      "document_type": "RIB propriétaire"
+    }
+  },
+  {
+    "id": "02a9a5cc-eb05-438a-96f7-cffef7116093",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "7ab06f79-4fa1-4a82-9bb0-b7e91e58c4d0",
+    "timestamp": "2026-01-24 12:55:46.464945+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "01_Identite_Proprietaire",
+      "filename": "coproprietaires-debiteurs.pdf",
+      "document_type": "Pièce d'identité propriétaire"
+    }
+  },
+  {
+    "id": "166726fd-5afe-4530-8e05-6844c9e45b54",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "e39fb06f-542f-4872-9d28-45c20dfd20f5",
+    "timestamp": "2026-01-24 12:55:52.059158+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "99_Autres",
+      "filename": "document_envoye_870013304261899.pdf",
+      "document_type": "Assurance PNO"
+    }
+  },
+  {
+    "id": "d953fa84-67ba-459d-b77c-63dcc025c4cd",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "c27ed8f1-9d2e-4662-8c78-9a96c615b294",
+    "timestamp": "2026-01-24 12:55:55.791786+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "99_Autres",
+      "filename": "Contrat Reservation Logement ALONSO.pdf",
+      "document_type": "Dernier relevé charges"
+    }
+  },
+  {
+    "id": "a3e0fa09-df78-435d-b65b-90031f16986a",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "6c0bacdb-6dc9-41a5-9871-ccee5f7c7069",
+    "timestamp": "2026-01-24 12:56:05.401715+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "03_Diagnostics",
+      "filename": "Contrat Reservation Logement ALONSO.pdf",
+      "document_type": "Diagnostic DPE"
+    }
+  },
+  {
+    "id": "750e7baa-5441-479a-8dc4-e1ff0a2a29c8",
+    "user_id": null,
+    "action": "UPLOAD_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "1f391edc-e391-4b2e-8f35-7abeda182cd2",
+    "timestamp": "2026-01-24 12:56:09.394911+00",
+    "ip_address": null,
+    "metadata": {
+      "category": "02_Titre_Propriete",
+      "filename": "FACTURE-26-01-518-ET-MADAME-CHRISTELLE-LOMBARD.pdf",
+      "document_type": "Taxe foncière"
+    }
+  },
+  {
+    "id": "8a4e33a0-008d-450e-b4eb-e5b1eb85766f",
+    "user_id": null,
+    "action": "IMPERSONATE_STOP",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 12:56:46.085835+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "7407d209-c66b-49c6-ac9b-f8f3399c938f",
+    "user_id": null,
+    "action": "DOWNLOAD_ZIP",
+    "target_type": "DOCUMENTS",
+    "target_id": null,
+    "timestamp": "2026-01-24 12:56:55.531541+00",
+    "ip_address": null,
+    "metadata": {
+      "agent_id": null,
+      "filename": "documents_456.zip",
+      "document_count": 1,
+      "property_file_id": "03bac647-7df8-444f-b1ff-068557b277f2"
+    }
+  },
+  {
+    "id": "779d4265-0e01-4c3e-82c4-af9a9c72df2a",
+    "user_id": null,
+    "action": "DOWNLOAD_ZIP",
+    "target_type": "DOCUMENTS",
+    "target_id": null,
+    "timestamp": "2026-01-24 12:57:17.272476+00",
+    "ip_address": null,
+    "metadata": {
+      "agent_id": null,
+      "filename": "documents_448.zip",
+      "document_count": 7,
+      "property_file_id": "e8056bca-1680-485c-ac02-39170c1fbe1f"
+    }
+  },
+  {
+    "id": "8b871876-ae81-4be2-8db3-447adcab8c89",
+    "user_id": null,
+    "action": "IMPERSONATE_START",
+    "target_type": "AGENT",
+    "target_id": "31d88f8c-2d7f-4f8e-b5e5-e84895842f61",
+    "timestamp": "2026-01-24 12:57:49.565849+00",
+    "ip_address": null,
+    "metadata": {}
+  },
+  {
+    "id": "61758fe0-c491-4b23-bf97-6c3f90bbf222",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "b14118eb-24c7-4f7f-9029-9d21596e111f",
+    "timestamp": "2026-01-24 13:05:52.366314+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "Contrat de syndic.docx"
+    }
+  },
+  {
+    "id": "c7fb5170-71fe-4dd1-8013-42c7cd5287bc",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "1f391edc-e391-4b2e-8f35-7abeda182cd2",
+    "timestamp": "2026-01-24 13:05:58.214133+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "FACTURE-26-01-518-ET-MADAME-CHRISTELLE-LOMBARD.pdf"
+    }
+  },
+  {
+    "id": "99a65b66-9c3a-4070-8335-220f5b02f1ca",
+    "user_id": null,
+    "action": "DELETE_DOCUMENT",
+    "target_type": "DOCUMENT",
+    "target_id": "6c0bacdb-6dc9-41a5-9871-ccee5f7c7069",
+    "timestamp": "2026-01-24 13:06:00.454437+00",
+    "ip_address": null,
+    "metadata": {
+      "filename": "Contrat Reservation Logement ALONSO.pdf"
+    }
+  }
+]
